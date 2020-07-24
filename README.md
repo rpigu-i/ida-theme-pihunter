@@ -20,6 +20,6 @@ For versions less than 7.3:
 2. Select Colors
 3. Select Import
 
-Install the id-theme-pithunter.clr file.
+Install the `id-theme-pithunter.clr` file.
 
 
