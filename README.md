@@ -6,10 +6,16 @@ A theme inspired by the Raspberry Pi.
 
 For versions greater than 7.3:
 
-Create a new theme directory
+Create a new theme directory, MACOSX and 'Nix:
 
 ```
 mkdir -p ~/.idapro/themes/ida-theme-pihunter
+```
+
+Windows:
+
+```
+%APPDATA%\Hex-Rays\IDA Pro\themes\ida-theme-pihunter
 ```
 
 Copy the theme.css file from this repository into it.
