@@ -2,6 +2,9 @@
 
 A theme inspired by the Raspberry Pi.
 
+![IDA Pro Raspberry Pi Theme Example](idaprothemescreenshot.png "IDA Pro Theme - Pi Hunter")
+
+
 ## Installation
 
 For versions greater than 7.3:
