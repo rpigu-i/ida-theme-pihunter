@@ -1,54 +1,50 @@
 [DISASM]
 000000
-AAAAAA
-FFC5F3
-82607E
-666666
-EBEBB9
-FFECBB
-FFAA7F
-7C7C61
-595959
-FFD200
-00FFFF
-FFD200
-9DD600
-69D200
-9F3000
-D25032
-ABABAB
-73ADAD
-FFD200
-2D2D2D
-E1AD32
-666666
-AA0000
-C7C610
-9D9D00
-FFAA00
-F5D077
-050000
-080A0C
-84005D
-8D008E
-C625E4
-176B13
-9E00AB
-B0EDD0
-E052E3
-000000
+AAAAAA //default
+FFC5F3 //regular comment
+82607E //repeatable comment
+666666 //automatic comment
+FFFFFF //instructions
+B9EBEB //regular Data Name
+EBEBB9 //dummy data name
+FFECBB //demangled-nam
+FFAA7F //code-xref
+7C7C61 //data-xref
+595959 //opcode-byte
+FFD200 //hidden
+00FFFF //libfunc
+FFD200 //dummy-code-nam
+9DD600 //asm-directive
+69D200 //strlit-in-data
+9F3000 //charlit-in-data
+D25032 //numlit-in-data
+ABABAB //keyword
+73ADAD //register-name
+FFD200 //code-name
+2D2D2D //default
+E1AD32 //selected
+666666 //func
+AA0000 //insn
+C7C610 //data
+9D9D00 //unexplored
+FFAA00 //current-line
+F5D077 //unsaved-changes
+050000 //graph-bg-top
+080A0C //graph-bg-bottom
+84005D //graph-node-title-selected
+8D008E //graph-node-title-current
+C625E4 //graph-node-frame-group
+176B13 //graph-node-high
+9E00AB //graph-edge-normal
+B0EDD0 //graph-edge-high
+E052E3 //graph-edge-current
 [NAVBAR]
-9D0912
-EE1312
-214D10
-30B212
-
+9D0912 //lib-function
+EE1312 //function
+214D10 //code
+30B212 //data
 [DEBUG]
-
 [GRAPH]
-
 [MISC]
-
 [OTHER]
-
 [SYNTAX]
