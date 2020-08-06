@@ -2,29 +2,145 @@
 
 CustomIDAMemo
 {
-
-}
-
-MainMsgList
-{
-}
-
-TCpuRegs
-{
-}
-
-TextArrows
-{
-}
-
-navband_t
-{
+    qproperty-line-fg-default: #AAAAAA;
+    qproperty-line-fg-regular-comment: #FFC5F3;
+    qproperty-line-fg-repeatable-comment: #82607E;
+    qproperty-line-fg-automatic-comment: #666666;
+    qproperty-line-fg-dummy-data-name: #EBEBB9;
+    qproperty-line-fg-demangled-name: #FFECBB;
+    qproperty-line-fg-code-xref: #FFAA7F;
+    qproperty-line-fg-data-xref: #7C7C61;
+    qproperty-line-fg-opcode-byte: #595959;
+    qproperty-line-fg-hidden: #FFD200;
+    qproperty-line-fg-libfunc: aqua;
+    qproperty-line-fg-dummy-code-name: #FFD200;
+    qproperty-line-fg-asm-directive: #9DD600;
+    qproperty-line-fg-strlit-in-data: #69D200;
+    qproperty-line-fg-charlit-in-data: #79F300;
+    qproperty-line-fg-numlit-in-data: #D25032;
+    qproperty-line-fg-keyword: #ABABAB;
+    qproperty-line-fg-register-name: #73ADAD;
+    qproperty-line-fg-code-name: #FFD200;
+    qproperty-line-bg-default: #2D2D2D;
+    qproperty-line-bg-selected: #E1AD32;
+    qproperty-line-pfx-func: #666666;
+    qproperty-line-pfx-insn: #AA0000;
+    qproperty-line-pfx-data: #7C7C61;
+    qproperty-line-pfx-unexplored: #9D9D00;
+    qproperty-line-pfx-current-line: #FFAA00;
+    qproperty-line-fg-unsaved-changes: #F5D077;
+    qproperty-graph-bg-top: #050000;
+    qproperty-graph-bg-bottom: #080A0C;
+    qproperty-graph-node-title-selected: #84005D;
+    qproperty-graph-node-title-current: #8D008E;
+    qproperty-graph-node-frame-group: #C625E4;
+    qproperty-graph-node-high2: #176B13;
+    qproperty-graph-edge-normal: #9E00AB;
+    qproperty-graph-edge-high: #B0EDD0;
+    qproperty-graph-edge-current: #E052E3;
 }
 
 CustomIDAMemo[debugging="true"]
 {
+    qproperty-line-fg-default: #AAAAAA;
+    qproperty-line-fg-regular-comment: #FFC5F3;
+    qproperty-line-fg-repeatable-comment: #82607E;
+    qproperty-line-fg-automatic-comment: #666666;
+    qproperty-line-fg-dummy-data-name: #EBEBB9;
+    qproperty-line-fg-demangled-name: #FFECBB;
+    qproperty-line-fg-code-xref: #FFAA7F;
+    qproperty-line-fg-data-xref: #7C7C61;
+    qproperty-line-fg-opcode-byte: #595959;
+    qproperty-line-fg-hidden: #FFD200;
+    qproperty-line-fg-libfunc: aqua;
+    qproperty-line-fg-dummy-code-name: #FFD200;
+    qproperty-line-fg-asm-directive: #9DD600;
+    qproperty-line-fg-strlit-in-data: #69D200;
+    qproperty-line-fg-charlit-in-data: #79F300;
+    qproperty-line-fg-numlit-in-data: #D25032;
+    qproperty-line-fg-keyword: #ABABAB;
+    qproperty-line-fg-register-name: #73ADAD;
+    qproperty-line-fg-code-name: #FFD200;
+    qproperty-line-bg-selected: #E1AD32;
+    qproperty-line-pfx-func: #666666;
+    qproperty-line-pfx-insn: #AA0000;
+    qproperty-line-pfx-data: #7C7C61;
+    qproperty-line-pfx-unexplored: #9D9D00;
+    qproperty-line-pfx-current-line: #FFAA00;
+    qproperty-line-fg-unsaved-changes: #F5D077;
+    qproperty-graph-bg-top: #D5F4F2;
+    qproperty-graph-bg-bottom: #080A0C;
+    qproperty-graph-node-title-selected: #84005D;
+    qproperty-graph-node-title-current: #2B0A42;
+    qproperty-graph-node-frame-group: #C625E4;
+    qproperty-graph-node-high2: #176B13;
+    qproperty-graph-edge-normal: #9E00AB;
+    qproperty-graph-edge-high: #B0EDD0;
+    qproperty-graph-edge-current: #E052E3;
 }
 
 CustomIDAMemo[hints="true"]
 {
+    qproperty-line-fg-default: #AAAAAA;
+    qproperty-line-fg-regular-comment: #FFC5F3;
+    qproperty-line-fg-repeatable-comment: #82607E;
+    qproperty-line-fg-automatic-comment: #666666;
+    qproperty-line-fg-dummy-data-name: #EBEBB9;
+    qproperty-line-fg-demangled-name: #FFECBB;
+    qproperty-line-fg-code-xref: #FFAA7F;
+    qproperty-line-fg-data-xref: #7C7C61;
+    qproperty-line-fg-opcode-byte: #595959;
+    qproperty-line-fg-hidden: #FFD200;
+    qproperty-line-fg-libfunc: aqua;
+    qproperty-line-fg-dummy-code-name: #FFD200;
+    qproperty-line-fg-asm-directive: #9DD600;
+    qproperty-line-fg-strlit-in-data: #69D200;
+    qproperty-line-fg-charlit-in-data: #79F300;
+    qproperty-line-fg-numlit-in-data: #D25032;
+    qproperty-line-fg-keyword: #ABABAB;
+    qproperty-line-fg-register-name: #73ADAD;
+    qproperty-line-fg-code-name: #FFD200;
+    qproperty-line-bg-selected: #E1AD32;
+    qproperty-line-pfx-func: #666666;
+    qproperty-line-pfx-insn: #AA0000;
+    qproperty-line-pfx-data: #7C7C61;
+    qproperty-line-pfx-unexplored: #9D9D00;
+    qproperty-line-pfx-current-line: #FFAA00;
+    qproperty-line-fg-unsaved-changes: #F5D077;
+    qproperty-graph-bg-top: #D5F4F2;
+    qproperty-graph-bg-bottom: #080A0C;
+    qproperty-graph-node-title-selected: #84005D;
+    qproperty-graph-node-title-current: #2B0A42;
+    qproperty-graph-node-frame-group: #C625E4;
+    qproperty-graph-node-high2: #176B13;
+    qproperty-graph-edge-normal: #9E00AB;
+    qproperty-graph-edge-high: #B0EDD0;
+    qproperty-graph-edge-current: #E052E3;
+}
+
+navband_t
+{
+    qproperty-lib-function: #9D0912;
+    qproperty-function: #EE1312;
+    qproperty-code: #214D10;
+    qproperty-data: #30B212;
+}
+
+TextArrows
+{
+    qproperty-register-target: #2E0F0D;
+    qproperty-bpt-possible: #910094;
+}
+
+TextEdit
+{
+    qproperty-keyword1-fg: lime;
+    qproperty-keyword1-italic: 1;
+    qproperty-keyword2-fg: #F6007C;
+    qproperty-preprocessor-fg: #73FE00;
+}
+
+TCpuRegs
+{
+    qproperty-register-changed: #F90007;
 }
